@@ -1,2 +1,2 @@
 # littlejohn
-Robinhood assistant
+Robinhood's sidekick
