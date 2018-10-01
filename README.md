@@ -1,2 +1,2 @@
 # littlejohn
-Robinhood's sidekick
+Robinhood's Sidekick
